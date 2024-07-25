@@ -1,0 +1,14 @@
+C:\Users\sgali\Desktop\SoftraySolutionsTest\SoftraySolutionsTestApp\bin\Debug\net8.0\SoftraySolutionsTestApp.exe
+C:\Users\sgali\Desktop\SoftraySolutionsTest\SoftraySolutionsTestApp\bin\Debug\net8.0\SoftraySolutionsTestApp.deps.json
+C:\Users\sgali\Desktop\SoftraySolutionsTest\SoftraySolutionsTestApp\bin\Debug\net8.0\SoftraySolutionsTestApp.runtimeconfig.json
+C:\Users\sgali\Desktop\SoftraySolutionsTest\SoftraySolutionsTestApp\bin\Debug\net8.0\SoftraySolutionsTestApp.dll
+C:\Users\sgali\Desktop\SoftraySolutionsTest\SoftraySolutionsTestApp\bin\Debug\net8.0\SoftraySolutionsTestApp.pdb
+C:\Users\sgali\Desktop\SoftraySolutionsTest\SoftraySolutionsTestApp\obj\Debug\net8.0\SoftraySolutionsTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgali\Desktop\SoftraySolutionsTest\SoftraySolutionsTestApp\obj\Debug\net8.0\SoftraySolutionsTestApp.AssemblyInfoInputs.cache
+C:\Users\sgali\Desktop\SoftraySolutionsTest\SoftraySolutionsTestApp\obj\Debug\net8.0\SoftraySolutionsTestApp.AssemblyInfo.cs
+C:\Users\sgali\Desktop\SoftraySolutionsTest\SoftraySolutionsTestApp\obj\Debug\net8.0\SoftraySolutionsTestApp.csproj.CoreCompileInputs.cache
+C:\Users\sgali\Desktop\SoftraySolutionsTest\SoftraySolutionsTestApp\obj\Debug\net8.0\SoftraySolutionsTestApp.dll
+C:\Users\sgali\Desktop\SoftraySolutionsTest\SoftraySolutionsTestApp\obj\Debug\net8.0\refint\SoftraySolutionsTestApp.dll
+C:\Users\sgali\Desktop\SoftraySolutionsTest\SoftraySolutionsTestApp\obj\Debug\net8.0\SoftraySolutionsTestApp.pdb
+C:\Users\sgali\Desktop\SoftraySolutionsTest\SoftraySolutionsTestApp\obj\Debug\net8.0\SoftraySolutionsTestApp.genruntimeconfig.cache
+C:\Users\sgali\Desktop\SoftraySolutionsTest\SoftraySolutionsTestApp\obj\Debug\net8.0\ref\SoftraySolutionsTestApp.dll
